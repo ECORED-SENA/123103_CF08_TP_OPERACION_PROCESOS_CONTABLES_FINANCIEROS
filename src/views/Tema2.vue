@@ -34,7 +34,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Lectura de indicadores y análisis de desviaciones"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/Lectura_indicadores_analisis_desviaciones.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto.d-none.d-xl-block
@@ -384,7 +384,7 @@
     p.mb-5 A continuación, se presenta un video sobre los indicadores de seguimiento a acciones de mejora, enfocado en evaluar si las intervenciones implementadas generan cambios reales, medibles y sostenibles en la calidad de la atención y del servicio. 
     figure(data-aos="zoom-in").mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/cZ-SWqeYj_I" title="Indicadores de seguimiento a acciones de mejora" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption.fit___figcaption-video #[b Video]. Indicadores de seguimiento a acciones de mejora.
     p En consecuencia, los indicadores de seguimiento cumplen una doble función: exponen si la mejora funcionó y, al mismo tiempo, ofrecen nueva información para decidir si el ajuste debe mantenerse, ampliarse, reformularse o complementarse con otras acciones.
     p.mb-5 Esta relación presenta algunos indicadores utilizados para verificar el efecto de las acciones de mejora implementadas en la atención de requerimientos.
