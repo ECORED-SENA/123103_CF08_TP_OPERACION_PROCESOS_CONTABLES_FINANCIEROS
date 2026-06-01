@@ -15,7 +15,7 @@
               figure
                 img(src='@/assets/curso/intro/img1.jpg', alt='').m-auto
             .col-xl.fit___box_container
-              p.mb-0 La atención de requerimientos del usuario no concluye con la emisión de una respuesta, sino que exige revisar si dicha respuesta fue #[b oportuna, suficiente y coherente] con la necesidad planteada. En el ámbito de los servicios, la calidad se relaciona tanto con el #[b resultado – entregado]  como con la forma en que se desarrolla la atención, por lo que su análisis requiere considerar #[b tiempos, cumplimiento, claridad y experiencia del usuario] como parte del desempeño organizacional.
+              p.mb-0 La atención de requerimientos del usuario no concluye con la emisión de una respuesta, sino que exige revisar si dicha respuesta fue #[b oportuna, suficiente y coherente] con la necesidad planteada. En el ámbito de los servicios, la calidad se relaciona tanto con el #[b resultado entregado]  como con la forma en que se desarrolla la atención, por lo que su análisis requiere considerar #[b tiempos, cumplimiento, claridad y experiencia del usuario] como parte del desempeño organizacional.
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src='@/assets/curso/intro/img2.png', alt='').m-auto

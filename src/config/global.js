@@ -187,7 +187,7 @@ export default {
           },
           {
             numero: '5.3',
-            titulo: 'Indicadores de control del servicio	37',
+            titulo: 'Indicadores de control del servicio',
             hash: 't_5_3',
           },
           {

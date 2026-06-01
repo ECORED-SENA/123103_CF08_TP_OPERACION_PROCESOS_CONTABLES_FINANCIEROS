@@ -96,27 +96,27 @@
               .lista-ol--cuadro__vineta
                 span A
               | 
-              p.mb-0 Observación del indicador. 
+              p.mb-0 Observación del indicador
             li 
               .lista-ol--cuadro__vineta
                 span B
               | 
-              p.mb-0 Identificación de la desviación. 
+              p.mb-0 Identificación de la desviación
             li 
               .lista-ol--cuadro__vineta
                 span C
               | 
-              p.mb-0 Revisión de causas. 
+              p.mb-0 Revisión de causas
             li 
               .lista-ol--cuadro__vineta
                 span D
               | 
-              p.mb-0 Interpretación del hallazgo. 
+              p.mb-0 Interpretación del hallazgo
             li 
               .lista-ol--cuadro__vineta
                 span E
               | 
-              p.mb-0 Definición de oportunidad de mejora.
+              p.mb-0 Definición de oportunidad de mejora
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/img49.png', alt='').m-auto

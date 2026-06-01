@@ -76,7 +76,7 @@
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Relación con hallazgos previos
             p.mb-0 ¿El cambio responde a incidencias o resultados verificados? Evita decisiones sin sustento.
-    p.mb-0 Aplicados al servicio, estos criterios permiten decidir si conviene intervenir el tiempo de respuesta, la secuencia del trámite, la asignación de tareas o la forma de comunicación con el usuario. Así, la modificación del proceso deja de ser una reacción general frente al problema y se convierte en una #[b decisión técnica] orientada por evidencia.
+    p.mb-0 Aplicados al servicio, estos criterios permiten decidir si conviene intervenir en el tiempo de respuesta, la secuencia del trámite, la asignación de tareas o la forma de comunicación con el usuario. Así, la modificación del proceso deja de ser una reacción general frente al problema y se convierte en una #[b decisión técnica] orientada por evidencia.
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -236,35 +236,40 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Coherencia con el proceso
-                p.mb-0 Asegurar que el ajuste no contradiga otras etapas del servicio. Aplicación práctica: revisar relación con recepción, respuesta y cierre.
+                p.mb-0 Asegurar que el ajuste no contradiga otras etapas del servicio. 
+                p.mb-0 Aplicación práctica: revisar relación con recepción, respuesta y cierre.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img86.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Articulación con el equipo
-                p.mb-0 Facilitar aplicación uniforme del cambio. Aplicación práctica: comunicar y socializar el ajuste.
+                p.mb-0 Facilitar aplicación uniforme del cambio. 
+                p.mb-0 Aplicación práctica: comunicar y socializar el ajuste.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img87.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Correspondencia con el problema identificado
-                p.mb-0 Mantener el foco de la mejora. Aplicación práctica: verificar que la acción responde al hallazgo original.
+                p.mb-0 Mantener el foco de la mejora. 
+                p.mb-0 Aplicación práctica: verificar que la acción responde al hallazgo original.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img88.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Posibilidad de seguimiento
-                p.mb-0 Permitir evaluación posterior. Aplicación práctica: relacionar el ajuste con un indicador.
+                p.mb-0 Permitir evaluación posterior. 
+                p.mb-0 Aplicación práctica: relacionar el ajuste con un indicador.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img89.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Sostenibilidad
-                p.mb-0 Favorecer permanencia del cambio. Aplicación práctica: incorporar el ajuste a guías o prácticas habituales.
+                p.mb-0 Favorecer permanencia del cambio. 
+                p.mb-0 Aplicación práctica: incorporar el ajuste a guías o prácticas habituales.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img90.png', alt='' style="max-width: 500px").m-auto

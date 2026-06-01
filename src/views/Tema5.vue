@@ -50,7 +50,8 @@
               img(src='@/assets/curso/temas/img117.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Norma
-            p.mb-0 Define requisitos o lineamientos de calidad. Aplicación: orientar cómo estructurar procesos, controles y mejora.
+            p.mb-0 Define requisitos o lineamientos de calidad. 
+            p.mb-0 Aplicación: orientar cómo estructurar procesos, controles y mejora.
       .py-3.py-md-4(titulo="Estándar")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
@@ -58,7 +59,8 @@
               img(src='@/assets/curso/temas/img118.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Estándar
-            p.mb-0 Sirve como referencia de desempeño esperado. Aplicación: comparar tiempos, calidad de respuesta y satisfacción.
+            p.mb-0 Sirve como referencia de desempeño esperado. 
+            p.mb-0 Aplicación: comparar tiempos, calidad de respuesta y satisfacción.
       .py-3.py-md-4(titulo="Certificación")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
@@ -66,7 +68,8 @@
               img(src='@/assets/curso/temas/img119.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Certificación
-            p.mb-0 Verifica conformidad del sistema frente a una norma. Aplicación: aportar evidencia externa sobre el funcionamiento del sistema.
+            p.mb-0 Verifica conformidad del sistema frente a una norma. 
+            p.mb-0 Aplicación: aportar evidencia externa sobre el funcionamiento del sistema.
     p.mb-0 Cuando la empresa comprende esta diferencia, puede usar mejor cada elemento. La norma orienta, el estándar ayuda a medir y la certificación verifica. En la práctica, esto permite que la atención de requerimientos se gestione con mayor criterio y no solo con respuestas improvisadas o basadas en hábitos que cambian según la persona que atiende.
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
