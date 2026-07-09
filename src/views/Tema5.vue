@@ -304,7 +304,7 @@
           h4 Ejercicio aplicado 5
           p.mb-0 Se invita a leer el documento #[b Ejercicio aplicado 5. Sistema de gestión de calidad y control del servicio], donde se aborda el fortalecimiento de los sistemas de gestión de calidad en la atención de requerimientos dentro de una empresa de servicios contables.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_Ejercicio_aplicado_5.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_Ejercicio_aplicado_5.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 

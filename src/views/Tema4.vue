@@ -245,7 +245,7 @@
               h4 Ejercicio aplicado 4
               p.mb-0 Se invita a leer el documento #[b Ejercicio aplicado 4. Mejora continua en la atención de requerimientos], donde se aborda la aplicación del ciclo PHVA y el fortalecimiento de procesos de mejora continua en la atención al usuario.
             .col-xl-2
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_Ejercicio_aplicado_4.pdf')" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_Ejercicio_aplicado_4.pdf')" target="_blank" type="application/pdf")
                 span Descargar
                 i.fas.fa-file-download
 

@@ -438,7 +438,7 @@
           h4 Ejercicio aplicado 2
           p.mb-0 Se invita a leer el documento #[b “Ejercicio aplicado 2. Análisis de resultados e identificación de oportunidades de mejora”], donde se aborda la interpretación de indicadores de desempeño, desviaciones del servicio y oportunidades de mejora en la atención de requerimientos.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_Ejercicio_aplicado_2.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_Ejercicio_aplicado_2.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
