@@ -91,7 +91,7 @@
           h5 Figura 1.
           span Relación entre tiempo objetivo, tiempo ejecutado y calidad de la atención
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/img11.png', alt='Diagrama sobre evaluación del tiempo de respuesta y calidad de la atención, con bloques de tiempo objetivo y tiempo ejecutado, comparación del plazo, resultados dentro o fuera del plazo, criterios de calidad de atención y clasificación de atención en categorías A, B y C según cumplimiento del tiempo y criterios.').m-auto
+          img(src='@/assets/curso/temas/img11.svg', alt='Diagrama sobre evaluación del tiempo de respuesta y calidad de la atención, con bloques de tiempo objetivo y tiempo ejecutado, comparación del plazo, resultados dentro o fuera del plazo, criterios de calidad de atención y clasificación de atención en categorías A, B y C según cumplimiento del tiempo y criterios.').m-auto
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")

@@ -141,7 +141,7 @@
               h5 Figura 2.
               span Articulación entre auditoría, documentación e indicadores en el control del servicio
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/temas/img127.png', alt='Diagrama sobre gestión y mejora continua del servicio, con etapas de documentación, auditoría e indicadores, conectadas desde una entrada de requerimientos y registros hasta una salida con decisiones informadas y mejora del servicio, además de un bloque de retroalimentación y mejora continua.').m-auto
+              img(src='@/assets/curso/temas/img127.svg', alt='Diagrama sobre gestión y mejora continua del servicio, con etapas de documentación, auditoría e indicadores, conectadas desde una entrada de requerimientos y registros hasta una salida con decisiones informadas y mejora del servicio, además de un bloque de retroalimentación y mejora continua.').m-auto
     <!------------------------------------------ SUBTEMA 3 ------------------------------------------>
     Separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
