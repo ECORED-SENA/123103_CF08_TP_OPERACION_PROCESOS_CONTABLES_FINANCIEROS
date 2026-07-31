@@ -472,7 +472,7 @@
           h4 Ejercicio aplicado 1
           p.mb-0 Se invita a leer el documento #[b Ejercicio aplicado 1. Verificación de la calidad en la atención de requerimientos], donde se aborda el análisis de indicadores, hallazgos y mecanismos de seguimiento relacionados con la calidad en la atención de servicios.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_Ejercicio_aplicado_1.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_Ejercicio_aplicado_1.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
